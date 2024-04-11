@@ -1,4 +1,4 @@
-package com.pedroesparrago.androidmastercurso
+package com.pedroesparrago.androidmastercurso.sintaxis
 
 fun main(){
     ifBasico()

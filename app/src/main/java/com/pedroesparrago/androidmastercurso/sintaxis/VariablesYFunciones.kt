@@ -1,4 +1,4 @@
-package com.pedroesparrago.androidmastercurso
+package com.pedroesparrago.androidmastercurso.sintaxis
 
 //VARIABLES
 
@@ -53,7 +53,7 @@ fun variableAlfanumericas(){
 
 
 
-    var ejemploSuma:Int =edad1 + pi.toInt()
+    var ejemploSuma:Int = edad1 + pi.toInt()
     //Sumar dos String las va concatenar, hay que usar el toInt
     //println(cadena2.toInt() + cadena3.toInt())
 }
