@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">AndroidMaster(curso)</string>
+
+    <!--IMC App-->
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
@@ -8,7 +10,7 @@
     <string name="calculate">Calcular</string>
     <string name="recalculate">Re-Calcular</string>
     <string name="result">Tu resultado es:</string>
-    
+
     <string name="error">ERROR</string>
 
     <string name="tittle_bajo_peso">Bajo peso</string>
@@ -22,4 +24,23 @@
 
     <string name="tittle_obecidad">Obecidad</string>
     <string name="descrition_obecidad">Estás MUY por encima de lo óptimo para tu peso y altura..</string>
+
+    <!--TodoApp-->
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_categories">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_btn_add_task">Agregar Tarea</string>
+
+    <string name="todo_business">Negocios</string>
+    <string name="todo_other">Otros</string>
+    <string name="todo_personal">Personal</string>
+
+    <!--SuperheroApp-->
+    <string name="superhero_stat_intelligence">Inteligencia</string>
+    <string name="superhero_stat_strength">Fuerza</string>
+    <string name="superhero_stat_speed">Velocidad</string>
+    <string name="superhero_stat_durability">Durabilidad</string>
+    <string name="superhero_stat_power">Poder</string>
+    <string name="superhero_stat_combat">Combate</string>
 </resources>
